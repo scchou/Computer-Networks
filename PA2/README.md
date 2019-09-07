@@ -3,11 +3,11 @@
 
 1. run the receiver
 
-Receiver.py output.txt 127.0.0.1 6000
+    Receiver.py output.txt 127.0.0.1 6000
 
 2. run the server
 
-Server.py new.txt
+    Server.py new.txt
 
 ***
 
