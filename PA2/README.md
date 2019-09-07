@@ -3,14 +3,14 @@
 
 1. run the receiver <br>
 `Receiver.py output.txt 127.0.0.1 6000`
-2. run the server
+2. run the server <br>
 `Server.py new.txt`
 
 ***
 
 ### To transmit jpg files:
 
-1. run the receiver
+1. run the receiver <br>
 `Receiver.py output.jpg 127.0.0.1 6000`
-2. run the server 
+2. run the server <br>
 `Server.py HB.jpg` 
