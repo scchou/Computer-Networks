@@ -7,7 +7,7 @@
 2. run the server <br>
 `Server.py new.txt`
 
-***
+****
 
 ### To transmit jpg files:
 
